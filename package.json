@@ -1,7 +1,6 @@
 {
   "name": "nucampsite",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsites review site Nucamp",
   "main": "index.js",
   "scripts": {
     "lite": "lite-server",
@@ -10,7 +9,6 @@
   },
   "author": "Dylan Travis",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
@@ -18,5 +16,14 @@
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asendice/nucamp-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asendice/nucamp-bootstrap/issues"
+  },
+  "homepage": "https://github.com/asendice/nucamp-bootstrap#readme",
+  "description": ""
 }
