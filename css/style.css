@@ -65,4 +65,7 @@ header h2 {
     bottom: 0;
     z-index: 2;
 }
-
+.carousel-control-next {
+    height: 10%;
+    margin-top: 27%;
+}
