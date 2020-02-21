@@ -54,3 +54,7 @@ header h2 {
 .carousel-control-next {
   height: 10%;
   margin-top: 27%; }
+
+  .sbl {
+    border: solid black 2px;
+  }
