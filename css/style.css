@@ -51,10 +51,10 @@ header h2 {
   bottom: 0;
   z-index: 2; }
 
-.carousel-control-next {
-  height: 10%;
-  margin-top: 27%; }
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
 
-  .sbl {
-    border: solid black 2px;
-  }
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
